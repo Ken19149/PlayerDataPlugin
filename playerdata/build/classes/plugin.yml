@@ -1,0 +1,9 @@
+name: Data
+version: 1.0.0
+author: Ken980
+main: me.Ken980.data.main
+commands:
+    data:
+        usage: /<command> <player>
+        aliases: [dat,getinfo,getdata]
+        description: get player info
